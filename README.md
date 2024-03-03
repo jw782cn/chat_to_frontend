@@ -10,6 +10,8 @@
 
 ## Usage
 
+rememeber to copy .env_template to .env and replace your api key.
+
 `pip install -r requirements.txt`
 
 `streamlit run webui.py`
