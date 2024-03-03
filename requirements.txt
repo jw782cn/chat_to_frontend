@@ -3,3 +3,4 @@ tiktoken
 langchain
 langgraph
 dspy
+streamlit
