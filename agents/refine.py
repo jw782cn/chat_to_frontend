@@ -11,6 +11,7 @@ Refine a code based on the shadcn components, query and frontend outline.
 - remember this is not a component but a page.tsx.
 - output the whole codes.
 - make this code as real as possible, add necessary texts, fake data to make it look real.
+- choose black, gray and white as the main color.
 - add more details please.
 
 I will tip you 1000$ for complete the whole code without skipping any codes!!!!

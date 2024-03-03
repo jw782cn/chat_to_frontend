@@ -8,6 +8,7 @@ Instructions:
 - Use the components selected.
 - Use bullet points to describe the structure.
 - Include detailed instructions for your colleague to follow. You need to describe ideally what this frontend will look like
+- no need to include any code.
 
 ---
 
