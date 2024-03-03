@@ -4,3 +4,5 @@ langchain
 langgraph
 dspy
 streamlit
+langchain_openai
+python-dotenv

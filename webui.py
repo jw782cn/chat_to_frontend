@@ -1,8 +1,10 @@
 import streamlit as st
 from agents.graph import FrontendAgent
+from dotenv import load_dotenv
+load_dotenv()
 
 if st.session_state.get("frontend_agent") is None:
-    frontend_agent = FrontendAgent(data_path="data\\shadcn.csv")
+    frontend_agent = FrontendAgent(data_path="data/shadcn.csv")
     st.session_state.frontend_agent = frontend_agent
 
 st.set_page_config(page_title="Chat to frontend with Shadcn", layout="wide")
